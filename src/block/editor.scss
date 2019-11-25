@@ -1,0 +1,15 @@
+/**
+ * #.# Editor Styles
+ *
+ * CSS for just Backend enqueued after style.scss
+ * which makes it higher in priority.
+ */
+.wp-block-cgb-block-quotes-guterberg  {
+  	background: white;
+	border: 0.1rem solid #292929;
+	color: #292929;
+	margin: 0 auto;
+	max-width: 740px;
+	padding: 1rem;
+	border-radius: 25px !important;
+}

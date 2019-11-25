@@ -1,0 +1,263 @@
+/**
+ * #.# Common SCSS
+ *
+ * Can include things like variables and mixins
+ * that are used across the project.
+*/
+/**
+ * #.# Editor Styles
+ *
+ * CSS for just Backend enqueued after style.scss
+ * which makes it higher in priority.
+ */
+.wp-block-cgb-block-quotes-guterberg {
+  background: white;
+  border: 0.1rem solid #292929;
+  color: #292929;
+  margin: 0 auto;
+  max-width: 740px;
+  padding: 1rem;
+  border-radius: 25px !important; }
+/**
+ * #.# Common SCSS
+ *
+ * Can include things like variables and mixins
+ * that are used across the project.
+*/
+/**
+ * ----------------------------------------------------------------------------
+ * Editor CSS
+ * ----------------------------------------------------------------------------
+ */
+.wp-block-nelio-testimonial-block ul,
+.wp-block-nelio-testimonial-block li {
+  list-style: none;
+  margin: 0;
+  padding: 0; }
+
+.wp-block-nelio-testimonial-block {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-align: stretch;
+      align-items: stretch;
+  background-color: #ffffff;
+  -webkit-box-shadow: 0px 0px 12px rgba(0, 0, 0, 0.12);
+          box-shadow: 0px 0px 12px rgba(0, 0, 0, 0.12); }
+
+.wp-block-nelio-testimonial-block .nelio-testimonial-image {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-align: center;
+      align-items: center; }
+
+.wp-block-nelio-testimonial-block .nelio-testimonial-image.image-inactive {
+  background: #f4f4f4;
+  width: 40%;
+  border: 1px solid #dddddd; }
+
+.wp-block-nelio-testimonial-block .nelio-testimonial-image.image-active {
+  background-size: cover;
+  background-position: center;
+  max-width: 40%; }
+
+.wp-block-nelio-testimonial-block .nelio-testimonial-image button {
+  margin: 0 auto; }
+
+.wp-block-nelio-testimonial-block .nelio-testimonial-image button.image-button {
+  line-height: 0;
+  padding: 0px; }
+
+.wp-block-nelio-testimonial-block .nelio-testimonial-image button.image-button img {
+  opacity: 0;
+  margin: 0; }
+
+.wp-block-nelio-testimonial-block .nelio-testimonial-content {
+  width: 60%;
+  -ms-flex-item-align: center;
+      align-self: center;
+  padding: 18px;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box; }
+
+.wp-block-nelio-testimonial-block .nelio-testimonial-content .nelio-testimonial-name {
+  font-weight: bold; }
+
+.wp-block-nelio-testimonial-block .nelio-testimonial-content .nelio-testimonial-position {
+  text-transform: uppercase; }
+
+.wp-block-nelio-testimonial-block .nelio-testimonial-contact {
+  margin-top: 12px; }
+
+.wp-block-nelio-testimonial-block .nelio-testimonial-contact .nelio-contact-link {
+  color: rgba(0, 0, 0, 0.24);
+  padding: 6px 12px;
+  border-left: 1px solid rgba(0, 0, 0, 0.12); }
+
+.wp-block-nelio-testimonial-block .nelio-testimonial-contact .nelio-contact-link:hover {
+  color: black; }
+
+.wp-block-nelio-testimonial-block .nelio-testimonial-contact .nelio-contact-link:first-child {
+  border: none; }
+
+.img-card-block {
+  width: 50%; }
+/**
+ * #.# Common SCSS
+ *
+ * Can include things like variables and mixins
+ * that are used across the project.
+*/
+/**
+ * ----------------------------------------------------------------------------
+ * Editor CSS
+ * ----------------------------------------------------------------------------
+ */
+.wp-block-nelio-testimonial-block ul,
+.wp-block-nelio-testimonial-block li {
+  list-style: none;
+  margin: 0;
+  padding: 0; }
+
+.wp-block-nelio-testimonial-block {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-align: stretch;
+      align-items: stretch;
+  background-color: #ffffff;
+  -webkit-box-shadow: 0px 0px 12px rgba(0, 0, 0, 0.12);
+          box-shadow: 0px 0px 12px rgba(0, 0, 0, 0.12); }
+
+.wp-block-nelio-testimonial-block .nelio-testimonial-image {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-align: center;
+      align-items: center; }
+
+.wp-block-nelio-testimonial-block .nelio-testimonial-image.image-inactive {
+  background: #f4f4f4;
+  width: 40%;
+  border: 1px solid #dddddd; }
+
+.wp-block-nelio-testimonial-block .nelio-testimonial-image.image-active {
+  background-size: cover;
+  background-position: center;
+  max-width: 40%; }
+
+.wp-block-nelio-testimonial-block .nelio-testimonial-image button {
+  margin: 0 auto; }
+
+.wp-block-nelio-testimonial-block .nelio-testimonial-image button.image-button {
+  line-height: 0;
+  padding: 0px; }
+
+.wp-block-nelio-testimonial-block .nelio-testimonial-image button.image-button img {
+  opacity: 0;
+  margin: 0; }
+
+.wp-block-nelio-testimonial-block .nelio-testimonial-content {
+  width: 60%;
+  -ms-flex-item-align: center;
+      align-self: center;
+  padding: 18px;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box; }
+
+.wp-block-nelio-testimonial-block .nelio-testimonial-content .nelio-testimonial-name {
+  font-weight: bold; }
+
+.wp-block-nelio-testimonial-block .nelio-testimonial-content .nelio-testimonial-position {
+  text-transform: uppercase; }
+
+.wp-block-nelio-testimonial-block .nelio-testimonial-contact {
+  margin-top: 12px; }
+
+.wp-block-nelio-testimonial-block .nelio-testimonial-contact .nelio-contact-link {
+  color: rgba(0, 0, 0, 0.24);
+  padding: 6px 12px;
+  border-left: 1px solid rgba(0, 0, 0, 0.12); }
+
+.wp-block-nelio-testimonial-block .nelio-testimonial-contact .nelio-contact-link:hover {
+  color: black; }
+
+.wp-block-nelio-testimonial-block .nelio-testimonial-contact .nelio-contact-link:first-child {
+  border: none; }
+/**
+ * #.# Common SCSS
+ *
+ * Can include things like variables and mixins
+ * that are used across the project.
+*/
+/**
+ * ----------------------------------------------------------------------------
+ * Editor CSS
+ * ----------------------------------------------------------------------------
+ */
+.wp-block-nelio-testimonial-block ul,
+.wp-block-nelio-testimonial-block li {
+  list-style: none;
+  margin: 0;
+  padding: 0; }
+
+.wp-block-nelio-testimonial-block {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-align: stretch;
+      align-items: stretch;
+  background-color: #ffffff;
+  -webkit-box-shadow: 0px 0px 12px rgba(0, 0, 0, 0.12);
+          box-shadow: 0px 0px 12px rgba(0, 0, 0, 0.12); }
+
+.wp-block-nelio-testimonial-block .nelio-testimonial-image {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-align: center;
+      align-items: center; }
+
+.wp-block-nelio-testimonial-block .nelio-testimonial-image.image-inactive {
+  background: #f4f4f4;
+  width: 40%;
+  border: 1px solid #dddddd; }
+
+.wp-block-nelio-testimonial-block .nelio-testimonial-image.image-active {
+  background-size: cover;
+  background-position: center;
+  max-width: 40%; }
+
+.wp-block-nelio-testimonial-block .nelio-testimonial-image button {
+  margin: 0 auto; }
+
+.wp-block-nelio-testimonial-block .nelio-testimonial-image button.image-button {
+  line-height: 0;
+  padding: 0px; }
+
+.wp-block-nelio-testimonial-block .nelio-testimonial-image button.image-button img {
+  opacity: 0;
+  margin: 0; }
+
+.wp-block-nelio-testimonial-block .nelio-testimonial-content {
+  width: 60%;
+  -ms-flex-item-align: center;
+      align-self: center;
+  padding: 18px;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box; }
+
+.wp-block-nelio-testimonial-block .nelio-testimonial-content .nelio-testimonial-name {
+  font-weight: bold; }
+
+.wp-block-nelio-testimonial-block .nelio-testimonial-content .nelio-testimonial-position {
+  text-transform: uppercase; }
+
+.wp-block-nelio-testimonial-block .nelio-testimonial-contact {
+  margin-top: 12px; }
+
+.wp-block-nelio-testimonial-block .nelio-testimonial-contact .nelio-contact-link {
+  color: rgba(0, 0, 0, 0.24);
+  padding: 6px 12px;
+  border-left: 1px solid rgba(0, 0, 0, 0.12); }
+
+.wp-block-nelio-testimonial-block .nelio-testimonial-contact .nelio-contact-link:hover {
+  color: black; }
+
+.wp-block-nelio-testimonial-block .nelio-testimonial-contact .nelio-contact-link:first-child {
+  border: none; }
